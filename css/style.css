@@ -28,3 +28,29 @@
         -webkit-box-radius: 50%;
     color: #7A7676;
 }
+
+.round_img {
+    border-radius: 50%;
+}
+
+.fa-facebook, .fa-facebook-square {
+    color: #3b5998;
+}
+.fa-linkedin, .fa-linkedin-square { 
+    color: #007bb6;
+}
+.fa-github, .fa-github-square { 
+    color: #171515;
+}
+.fa-twitter, .fa-twitter-square { 
+    color: #00aced
+}
+.fa-youtube, .fa-youtube-square, .fa-youtube-square { 
+    color: #bb0000;
+}
+.fa-instagram { 
+    color: #517fa4;
+}
+.fa-envelope {
+    color:#000000;
+}
