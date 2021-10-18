@@ -62,21 +62,42 @@ body{
 .fa-facebook, .fa-facebook-square {
     color: #3b5998;
 }
+
 .fa-linkedin, .fa-linkedin-square { 
     color: #007bb6;
 }
+
 .fa-github, .fa-github-square { 
     color: #171515;
 }
+
 .fa-twitter, .fa-twitter-square { 
     color: #00aced
 }
+
 .fa-youtube, .fa-youtube-square, .fa-youtube-square { 
     color: #bb0000;
 }
+
 .fa-instagram { 
     color: #517fa4;
 }
+
 .fa-envelope {
     color:#000000;
+}
+
+.fa-globe {
+    color:#000000;
+}
+
+.kshadow {
+box-shadow: -2px 4px 8px 1px rgba(0,0,0,0.49);
+-webkit-box-shadow: -2px 4px 8px 1px rgba(0,0,0,0.49);
+-moz-box-shadow: -2px 4px 8px 1px rgba(0,0,0,0.49);
+border-radius: 3%;
+}
+
+.b_bg {
+background-color: #101010;
 }
